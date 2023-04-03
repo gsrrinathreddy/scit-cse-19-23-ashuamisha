@@ -1,11 +1,3 @@
-/*export default function Qualifications(){
-    return(
-        <>
-        This is Qualifications
-        </>
-    )
-
-}*/
 import * as React from 'react';
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
@@ -24,7 +16,7 @@ export default function Qualifications() {
           <Avatar alt="RGR Siddhanthi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPcHLQr7yXRS3xTzz-fDmcbo_3WbimLnvW5-w8r5IJQ&s" />
         </ListItemAvatar>
         <ListItemText
-          primary="Sree Chaitanya Institute of Technological Sciences"
+          primary="Sree Chaitanya institute of TEchnological SCiences"
           secondary={
             <React.Fragment>
               <Typography
@@ -33,9 +25,9 @@ export default function Qualifications() {
                 variant="body2"
                 color="text.primary"
               >
-                 72%
+                7.50 CGPA
               </Typography>
-              {" — B.Tech, Computer Science and Engineering"}
+              {"B.Tech-Computer Science and Engineering"}
             </React.Fragment>
           }
         />
@@ -55,9 +47,9 @@ export default function Qualifications() {
                 variant="body2"
                 color="text.primary"
               >
-                91% 
+                901 Marks
               </Typography>
-              {" — Intermediate studies with MPC"}
+              {"Intermediate studies with MPC"}
             </React.Fragment>
           }
         />
@@ -77,7 +69,7 @@ export default function Qualifications() {
                 variant="body2"
                 color="text.primary"
               >
-                90% 
+                9.0 CGPA
               </Typography>
               {' — Higher Secondory Education '}
             </React.Fragment>

@@ -62,7 +62,7 @@ const itemData = [
   },
   {
     img: 'https://m.media-amazon.com/images/I/51s6mx7gyLL.jpg',
-    title: 'Singig',
+    title: 'Singing',
     
   },
   {

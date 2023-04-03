@@ -1,14 +1,12 @@
-/*export default function Aboutus(){
+
+/*export default function Aboutme(){
     return(
         <>
-        This is Aboutus
+        This is Aboutme
         </>
-    )
-
-}*/
-import { Typography } from '@mui/material';
-
-export default function Aboutus(){
+    )}*/
+    import { Typography } from '@mui/material';
+export default function Aboutme(){
     return(
         <>
 <Typography>Name: MOHAMMED AMISHA</Typography>
